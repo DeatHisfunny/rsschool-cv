@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DeatHisfunny.github.io/rsschool-cv/cv
