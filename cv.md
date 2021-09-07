@@ -6,9 +6,9 @@
 # About Me
 I am 26 years old and I would like to change my life by connecting it with the front-end.
 * My strengths: 
-  1. Fast learner
-  2. Diligence
-  3. I work in a team and without it
+  * Fast learner
+  * Diligence
+  * I work in a team and without it
 # Skills
   * HTML
   * CSS
