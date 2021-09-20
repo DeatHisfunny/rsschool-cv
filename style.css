@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+body.cv
+{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #3b3b3b;
+}
+body.cv a{
+    text-decoration: none;
+}
+body.cv a:hover{ 
+    border: none;
+}
+.cv-h1, .cv-h2{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 15px;
+}
+.cv-orange{
+    background-color: #A52A2A;
+}
+.cv-grey{
+    background-color: #3b3b3b;
+}
+.cv-white{
+    background-color: #f1f1ef;
+}
+.cv-sec{
+    padding: 0 30px;
+}
+.cv-h2{
+    margin-bottom: 15px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #FFD700;
+}
+/* ----------------------------------------------------------- */
+.cv-photoname{
+    padding: 30px;
+}
+.cv-h1{
+    margin: 10px 0;
+    font-size: 2em;
+    color: #f1f1ef;
+}
+.cv-figure{
+    margin: 0;
+}
+.cv-photo{
+    max-width: 100%;
+}
+.cv-contacts{
+    padding: 30px;
+}
+.cv-skills{
+    padding-bottom: 30px;
+}
+.cv-contacts,
+.cv-contacts a{
+    color: #ffffff;
+    
+}
+.contacts-link{
+    border-bottom: 1px solid #ffffff;
+}
+.contacts-list{
+    list-style: none;
+    padding: 0;
+}
+.contacts-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.contacts-item img{
+    width: 40px;
+    margin-right: 10px;
+}
+.contacts-linkimg{
+    border: none;
+}
+
+.cv-skills-list{
+    color: #ffffff;
+    list-style: none;
+    padding-left: 15px;
+}
+.cv-skills-item{
+    position: relative;
+    margin-bottom: 7px;
+}
+.cv-skills-item::before{
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: calc(50% - 3px);
+    display: block;
+    height: 6px;
+    width: 6px;
+    background-color: #ecb830;
+    border-radius: 100%;
+}
