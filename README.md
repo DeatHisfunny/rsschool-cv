@@ -1,1 +1,1 @@
-https://DeatHisfunny.github.io/rsschool-cv/cv
+https://deathisfunny.github.io/rsschool-cv/
